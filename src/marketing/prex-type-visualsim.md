@@ -9,12 +9,12 @@ The _Visual similarity_ recommendation type recommends similar looking products 
 
 The _Visual similarity_ recommendation type offers recommendations for other products in your catalog that have a visual similarity to the imagery currently being viewed. Visual similarity includes aspects such as:
 
--  Color
--  Shape
--  Size
--  Texture
--  Material
--  Style
+- Color
+- Shape
+- Size
+- Texture
+- Material
+- Style
 
 Adobe Sensei uses AI to process and analyze the imagery in your catalog and builds attributes used to determine visual similarities. If you are testing this recommendation type in a non-production environment, make sure your image URLs are publicly accessible. Because this recommendation type is not applicable to most catalogs, it is not enabled by default. You must explicitly enable this recommendation type.
 
@@ -37,13 +37,13 @@ After you enable visual recommendations, Adobe Sensei initiates the image proces
 
 ### Where used
 
--  Product detail
+- Product detail
 
 ### Suggested storefront labels
 
--  "You may also like"
--  "We found other products you might like"
--  "Inspired by this style"
+- "You may also like"
+- "We found other products you might like"
+- "Inspired by this style"
 
 ## Example
 

@@ -11,20 +11,20 @@ Belonging to a category of recommendation types that are popularity-based, _Most
 
 ### Where used
 
--  Home page
--  Category
--  Product detail
--  Cart
--  Confirmation
+- Home page
+- Category
+- Product detail
+- Cart
+- Confirmation
 
 ### Suggested storefront labels
 
--  "Most popular"
--  "Trending"
--  "Popular right now"
--  "Recently popular"
--  "Popular items inspired by this item" (PDP)
--  "Top sellers"
+- "Most popular"
+- "Trending"
+- "Popular right now"
+- "Recently popular"
+- "Popular items inspired by this item" (PDP)
+- "Top sellers"
 
 ## Example
 
